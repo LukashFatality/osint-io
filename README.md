@@ -8,5 +8,20 @@
     · Menampilkan informasi IP ISP<br>
 •Bonus <br>
     ± Tampilan Keluar Tools Modern<br>
-    ---
     ## Installing
+    ```
+    git clone
+    cd osint-io
+    ```
+
+    ```
+    pkg update && pkg upgrade
+    pkg install python3
+    pkg install nodejs
+    npm install
+    ```
+## Usage 
+```
+node osint.js
+```
+    
