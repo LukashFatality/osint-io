@@ -1,4 +1,5 @@
 # ＯＳＩＮＴ ＩＯ
+![Foto](media/foto.jpg)
   ## Fitur Osint
 >•Fitur Utama [ Osint Number ]<br>
     · Mencari ewalet yang terdaftar dan mengetahui jenis kartu<br>
