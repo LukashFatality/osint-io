@@ -10,17 +10,17 @@
     ± Tampilan Keluar Tools Modern<br>
     
  ## Installing 1 <br>
-    ```
+    
     git clone https://github.com/LukashFatality/osint-io.git
     cd osint-io
-    ```
+    
 ## Installing 2
-    ```
+    
     pkg update && pkg upgrade
     pkg install python3
     pkg install nodejs
     npm install
-    ```
+    
 ## Usage 
 ```
 node osint.js
