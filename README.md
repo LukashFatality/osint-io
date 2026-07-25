@@ -30,4 +30,4 @@ node osint.js
   contact lukash_fatality
 
 ## Media
-![Foto](osint-io/media/Picsart_26-07-25_22-01-05-189.jpg)
+![Foto](../media/foto1.jpg)
