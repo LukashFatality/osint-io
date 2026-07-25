@@ -1,0 +1,21 @@
+{
+  "name": "osint-io",
+  "version": "1.0.0",
+  "description": "Osint Tools Terminal-kit",
+  "main": "osint.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "moment": "^2.29.4",
+    "playwright": "^1.62.0",
+    "puppeteer-core": "^25.3.0",
+    "terminal-kit": "^3.0.0"
+  },
+  "keywords": [],
+  "author": "Lukash",
+  "license": "ISC",
+  "type": "commonjs"
+}
