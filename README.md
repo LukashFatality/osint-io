@@ -8,12 +8,12 @@
     · Menampilkan informasi IP ISP<br>
 •Bonus <br>
     ± Tampilan Keluar Tools Modern<br>
-    ## Installing
+    ## Installing <br>
     ```
     git clone https://github.com/LukashFatality/osint-io.git
     cd osint-io
     ```
-
+```
     ```
     pkg update && pkg upgrade
     pkg install python3
