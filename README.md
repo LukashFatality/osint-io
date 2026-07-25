@@ -28,7 +28,7 @@ node osint.js
 ```
 ## Information
 > Jika ada error silahkan <br>
-  contact lukash_fatality
+  contact https://t.me/lukash_fatality
 
 ## Media
 ![Foto](media/foto1.jpg)
