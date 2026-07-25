@@ -10,7 +10,7 @@
     ± Tampilan Keluar Tools Modern<br>
     ## Installing
     ```
-    git clone
+    git clone https://github.com/LukashFatality/osint-io.git
     cd osint-io
     ```
 
