@@ -1,6 +1,6 @@
 # ＯＳＩＮＴ ＩＯ
   ## Fitur Osint
-•Fitur Utama [ Osint Number ]<br>
+>•Fitur Utama [ Osint Number ]<br>
     · Mencari ewalet yang terdaftar dan mengetahui jenis kartu<br>
 •Fitur Kedua [ Osint Name ]<br>
     · Mencari username yang valid di beberapa platform<br>
